@@ -23,3 +23,13 @@ Here are some ideas to get you started:
 
 #### Contact me
 Please go on my [portfolio](https://fede-26.github.io/portfolio/) or on my [blog](https://fede-26.github.io/blog).
+
+#### Stats
+
+![Fede-26's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Fede-26&hide_border=true&hide_rank=true&show_icons=true&theme=synthwave#gh-dark-mode-only)
+
+![Fede-26's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fede-26&hide_rank=true&hide_border=true&show_icons=true&theme=buefy#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-26&layout=compact&exclude_repo=blog&hide_border=true&hide=html,css&theme=synthwave#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-26&layout=compact&hide_border=true&exclude_repo=blog&hide=html,css&theme=buefy#gh-light-mode-only)
