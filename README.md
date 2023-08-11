@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a university student and a developer.
 
 <!--
 **Fede-26/Fede-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Currently working in my free time on
+- Operating System Development (ASM, C, Rust);
+- Frontend development with Django;
+- Distrohopping _ad infinitum_
+
+#### Contact me
+Please go on my [portfolio](https://fede-26.github.io/portfolio/) or on my [blog](https://fede-26.github.io/blog).
