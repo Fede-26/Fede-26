@@ -30,6 +30,6 @@ Please go on my [portfolio](https://fede-26.github.io/portfolio/) or on my [blog
 
 [![Fede-26's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fede-26&hide_rank=true&hide_border=true&show_icons=true&theme=buefy#gh-light-mode-only)](https://github-readme-stats.vercel.app#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-26&layout=compact&exclude_repo=blog&hide_border=true&hide=html,css&theme=synthwave#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-26&layout=compact&exclude_repo=blog&hide_border=true&hide=html,css&theme=synthwave#gh-dark-mode-only)](https://github-readme-stats.vercel.app#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-26&layout=compact&hide_border=true&exclude_repo=blog&hide=html,css&theme=buefy#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-26&layout=compact&hide_border=true&exclude_repo=blog&hide=html,css&theme=buefy#gh-light-mode-only)](https://github-readme-stats.vercel.app#gh-light-mode-only)
