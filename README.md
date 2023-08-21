@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 #### Currently working in my free time on
 - Operating System Development (ASM, C, Rust);
 - Frontend development with Django;
-- Distrohopping _ad infinitum_
+- Learning Haskell and some Functional Programming;
+- Distrohopping _ad infinitum_.
 
 #### Contact me
 Please go on my [portfolio](https://fede-26.github.io/portfolio/) or on my [blog](https://fede-26.github.io/blog).
