@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Currently working in my free time on
-- Operating System Development (ASM, C, Rust);
+#### 🧮 Currently working in my free time on
+- System Development (ASM, C, Rust);
 - Frontend development with Django;
+- Embedded programming with Arduino and ESP-IDF (C, C++);
 - Learning Haskell and some Functional Programming;
 - Distrohopping _ad infinitum_.
 
-#### Contact me
+#### 📠 Contact me
 Please go on my [portfolio](https://fede-26.github.io/portfolio/) or on my [blog](https://fede-26.github.io/blog).
 
-#### Stats
+#### 📜 Stats
 
 [![Fede-26's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Fede-26&hide_border=true&hide_rank=true&show_icons=true&theme=synthwave#gh-dark-mode-only)](https://github-readme-stats.vercel.app#gh-dark-mode-only)
 
