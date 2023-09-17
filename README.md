@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 - Distrohopping _ad infinitum_.
 
 #### 📠 Contact me
-Please go on my [portfolio](https://fede-26.github.io/portfolio/) or on my [blog](https://fede-26.github.io/blog).
+Please go on my [portfolio](https://me.7-bit.xyz/) or on my [blog](https://fede7-bit.xyz) for contact links.
+
+#### 🌍 Websites
+- [Blog](https://7-bit.xyz);
+- [Portfolio](https://me.7-bit.xyz);
+- [PDFs](https://pdfs.7-bit.xyz);
 
 #### 📜 Stats
 
