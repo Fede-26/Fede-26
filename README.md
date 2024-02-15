@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 🧮 Currently working in my free time on
 - System Development (ASM, C, Rust);
 - Frontend development with Django;
-- Embedded programming with Arduino and ESP-IDF (C, C++);
+- Embedded programming with Arduino, ESP-IDF (C, C++), rp2040 and FPGAs (VHDL);
 - Learning Haskell and some Functional Programming;
 - Distrohopping _ad infinitum_.
 
