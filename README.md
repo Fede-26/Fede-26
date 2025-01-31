@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 #### 🧮 Currently working in my free time on
 - System Development (ASM, C, Rust);
-- Embedded programming with Arduino, ESP-IDF (C, C++), rp2040 and FPGAs (VHDL);
+- Embedded programming with Rust, ESP-IDF (C, C++), rp2040 and FPGAs;
 - Learning Haskell and some Functional Programming;
-- Distrohopping _ad infinitum_.
+- Distrohopping _ad infinitum_ (currently using NixOS).
 
 #### 📠 Contact me
-Please go on my [portfolio](https://me.7-bit.xyz/) or on my [blog](https://fede7-bit.xyz) for contact links.
+Please go on my [portfolio](https://me.7-bit.xyz/) or on my [blog](https://7-bit.xyz) for contact links.
 
 #### 🌍 Websites
 - [Blog](https://7-bit.xyz);
